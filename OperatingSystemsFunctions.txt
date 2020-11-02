@@ -7,3 +7,8 @@ Another function is the user interface or UI.
 A user interface is how you enter instructions and how the information is displayed on the screen.
 There are two types of user interfaces; graphical user interface and command line interface.
 Graphical user interface is the most common, you interact with menus and visual images by tapping, pointing, touching or clicking to give commands.
+
+Another function is the driver which is short for device driver.
+A driver is a program which tells the system how to communicate with a specific device.
+Every device connected to the computer, such as a mouse or webcam, requires its own driver.
+When you start a computer or connect a device, the operating system will load the driver for that specific device.
