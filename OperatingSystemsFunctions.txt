@@ -1,0 +1,4 @@
+One function of an operating system is when you power it on. 
+While the computer or mobile device is turned off, there is a power button you press to power it on. 
+Pressing or holding the power button while the device is on will power it off.
+An operating system also has other power options such as sleep mode and hibernate mode.
